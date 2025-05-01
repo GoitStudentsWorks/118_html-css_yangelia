@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/119_html-css_yangelia/",
+    "build": "vite build --base=/118_html-css_yangelia/",
     "preview": "vite preview"
   },
   "devDependencies": {
